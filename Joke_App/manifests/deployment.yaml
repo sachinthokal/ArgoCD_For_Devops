@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: joke-app
-        image: sachinthokal/joke_app:v33
+        image: sachinthokal/joke_app:v34
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
